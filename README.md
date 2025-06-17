@@ -12,11 +12,10 @@ A hand-controlled Fruit Ninja game using OpenCV, MediaPipe, and Streamlit!
 - Python
 - OpenCV
 - MediaPipe
-- Streamlit
 - pygame (for sound)
 
 ## 🚀 How to Run
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+python fruit_ninja.py
